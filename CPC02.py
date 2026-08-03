@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-#new herenew here
+#new herenew herenew here
 # --- 2D Profile Generation Function ---
 def generate_2d_profile(r_width: float, theta_c_deg: float, truncation_pct: float, num_points: int) -> dict:
     """
